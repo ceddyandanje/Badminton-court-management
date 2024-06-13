@@ -31,4 +31,4 @@ pass: admin123
 create your own user
 
 
-****** https://github.com/ceddyandanje ******
+****** https://github.com/ceddyandanje-******
